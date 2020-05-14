@@ -1,5 +1,0 @@
-Other content on sub-branch.
-
-
-This is written on sub-branch.
-Line added from master
