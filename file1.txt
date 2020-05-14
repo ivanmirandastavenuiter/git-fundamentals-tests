@@ -1,1 +1,3 @@
-Other content on sub-branch
+Other content on sub-branch.
+
+This is written on sub-branch.
