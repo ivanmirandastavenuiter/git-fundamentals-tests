@@ -2,3 +2,4 @@ Update on file1. Inserting content...
 Updating on 14th May
 Hey
 New line, saved on stash for pending application
+Lines written on sub-branch1.0. Correct this on merging with master branch.
